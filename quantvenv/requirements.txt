@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+pandas==0.20.0
+numpy
+pandas_datareader
+bs4
+requests
+sklearn
+pickle-mixin
+mpl-finance
+cython
+# yfinance
